@@ -1,4 +1,17 @@
-## Hi there 👋
+### Hi there 👋
+
+About me :scream:
+
+My name is Kevin Padilha, I'm Brazilian (🇧🇷). I've been working as an IT assistant since 2024.
+
+In my free time I like to play (and watch) soccer, to fighting jiu-jitsu (🥋),to listen to music (🎵).
+
+
+Would you like to find me?
+
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/kevaop)](https://instagram.com/kevaop)
+
 
 <!--
 **kevinpadilha/kevinpadilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
