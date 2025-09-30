@@ -2,7 +2,7 @@
 
 About me :scream:
 
-My name is Kevin Padilha, I'm Brazilian (🇧🇷). I've been working as an IT assistant since 2024.
+My name is Kevin Padilha, I'm Brazilian (🇧🇷). I've been working as an IT Assistant since 2024.
 
 In my free time I like to play (and watch) soccer, to fighting jiu-jitsu (🥋),to listen to music (🎵).
 
