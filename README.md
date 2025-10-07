@@ -4,7 +4,7 @@ About me :scream:
 
 My name is Kevin Padilha, I'm Brazilian (🇧🇷). I've been working as an IT Assistant since 2024.
 
-In my free time I like to play (and watch) soccer, to fighting jiu-jitsu (🥋),to listen to music (🎵).
+In my free time I like to play (and watch) soccer, to fight jiu-jitsu (🥋),to listen to music (🎵).
 
 
 Would you like to find me?
